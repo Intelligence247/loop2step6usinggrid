@@ -1,5 +1,7 @@
 # loop2step6usinggrid
 *An implementation of loop2step6usinggrid clone with html and css*
+## Getting Started
+Clone or download this repository and run with a local server of open `index.html` with your favorite browser
 ## Prequisite
 - Your browser version should be up to date for better experience
 ## Features
